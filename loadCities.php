@@ -21,3 +21,4 @@
     sort($cities);
 
     echo  json_encode($cities);
+ ?>

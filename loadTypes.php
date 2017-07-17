@@ -18,3 +18,4 @@
     sort($types);
 
     echo  json_encode($types);
+ ?>
